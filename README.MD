@@ -2,7 +2,11 @@
 
 Uma calculadora gráfica desenvolvida em Python com interface visual moderna inspirada na calculadora padrão do Windows 11.
 
-![Calculadora](docs/demo.png) <!-- (adicione o caminho do seu print ou GIF de demonstração) -->
+<h3 align="center">Demonstração</h3>
+
+<p align="center">
+  <img src="docs/demo.png" width="402" height="580" alt="Demonstração da Calculadora Tkinter"/>
+</p>
 
 ## 🚀 Funcionalidades
 
