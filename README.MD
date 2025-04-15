@@ -1,6 +1,7 @@
 # 🧮 Calculadora Estilo Windows com Tkinter
 
-Uma calculadora gráfica desenvolvida em Python com interface visual moderna inspirada na calculadora padrão do Windows 11.
+Aplicativo de calculadora com interface gráfica desenvolvida em Python, inspirado na calculadora do Windows 11.
+Projeto simples, funcional e visualmente fiel, com botões estilizados, DPI awareness e compilação para executável (.exe) usando PyInstaller.
 
 ## 🚀 Demonstração
 
@@ -16,6 +17,7 @@ Uma calculadora gráfica desenvolvida em Python com interface visual moderna ins
 - Limpar (`C`) e apagar último caractere (`⌫`)
 - Interface com design moderno (cores e dimensões semelhantes à do Windows)
 - Compatível com telas de alta resolução (DPI awareness)
+- Geração de aplicativo executável para Windows (.exe standalone)
 
 ## 🖼️ Interface
 
