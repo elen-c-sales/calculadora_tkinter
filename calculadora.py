@@ -7,6 +7,7 @@ class Calculadora:
         self.root.geometry("402x580")
         self.root.resizable(False, False)
         self.root.configure(bg='#f3f3f3')
+        self.root.iconbitmap("assets/Calculator.ico")# adicionei icone (:
 
         self.expression = ""
         self.resultado = tk.StringVar()
